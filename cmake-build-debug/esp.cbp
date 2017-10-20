@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/florianresch/Documents/UNI/thirdSemester/esp/esp/esp/main.cpp">
+		<Unit filename="/Users/florianresch/Documents/UNI/thirdSemester/esp/esp/esp/main.c">
 			<Option target="esp"/>
 		</Unit>
 		<Unit filename="/Users/florianresch/Documents/UNI/thirdSemester/esp/esp/esp/CMakeLists.txt">
