@@ -1,2 +1,2 @@
-# Empty dependencies file for uebung_1.
+# Empty dependencies file for esp.
 # This may be replaced when dependencies are built.
